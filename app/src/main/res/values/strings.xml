@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LockSpectre</string>
+
+    <!-- Security messages -->
+    <string name="security_active">Security monitoring is ACTIVE</string>
+    <string name="security_inactive">Security monitoring is INACTIVE</string>
+
+    <!-- Button labels -->
+    <string name="enable_security">Enable Security</string>
+    <string name="disable_security">Disable Security</string>
+    <string name="view_photos">View Security Photos</string>
+    <string name="cloud_backup">Cloud Backup</string>
+
+    <!-- Statistics -->
+    <string name="photos_count">Photos Count</string>
+    <string name="last_capture">Last Capture</string>
+    <string name="never">Never</string>
+
+    <!-- Actions -->
+    <string name="backup_all">Backup All Photos</string>
+    <string name="auto_backup_settings">Auto-Backup Settings</string>
+    <string name="backup_status">Backup Status</string>
+
+    <!-- Device Admin strings -->
+    <string name="device_admin_label">Security Monitor</string>
+    <string name="device_admin_description">Enable this admin to monitor failed login attempts and capture photos of potential intruders trying to access your device.</string>
+
+    <!-- Firebase authentication -->
+    <!-- NOTE: default_web_client_id is generated automatically from app/google-services.json -->
+</resources>
